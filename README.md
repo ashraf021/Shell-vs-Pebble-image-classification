@@ -171,7 +171,7 @@ The repository includes screenshots extracted from the executed notebook so that
 
 ### Sample dataset images
 
-![Sample dataset images]([assets/sample_dataset_images.png](https://github.com/ashraf021/Shell-vs-Pebble-image-classification/blob/a105c5e4455819b3c1cfcf04b8646087fd9c65f2/confusion_matrix.png))
+![image alt](https://github.com/ashraf021/Shell-vs-Pebble-image-classification/blob/65f2cfcaa333b8e83b10f0cfe7f0f29b184375b1/sample_dataset_images.png)
 
 ### Training and validation loss
 
