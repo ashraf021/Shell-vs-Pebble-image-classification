@@ -175,7 +175,7 @@ The repository includes screenshots extracted from the executed notebook so that
 
 ### Training and validation loss
 
-![Training and validation loss](assets/training_loss_curve.png)
+![image alt](https://github.com/ashraf021/Shell-vs-Pebble-image-classification/blob/bcf7d369085825b94cfe3d878d079daa5f39bd8c/training_loss_curve.png)
 
 ### Training and validation accuracy
 
