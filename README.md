@@ -189,7 +189,7 @@ The repository includes screenshots extracted from the executed notebook so that
 
 The notebook displays random test images with both the true and predicted labels.
 
-![Sample predictions](assets/sample_predictions.png)
+![image alt](https://github.com/ashraf021/Shell-vs-Pebble-image-classification/blob/4ea273e8c727c4c2437d385c854380d600168444/sample_predictions.png)
 
 ### Grad-CAM examples
 
