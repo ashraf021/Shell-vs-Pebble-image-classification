@@ -195,7 +195,7 @@ The notebook displays random test images with both the true and predicted labels
 
 The notebook also contains an optional Grad-CAM visualization for interpreting which image regions contribute to the prediction.
 
-![Grad-CAM examples](assets/gradcam_examples.png)
+![image alt](https://github.com/ashraf021/Shell-vs-Pebble-image-classification/blob/ead0ae20478c3e0a39110d0e7dfbf28b933065a4/gradcam_examples.png)
 
 ## 8. Example predictions
 
