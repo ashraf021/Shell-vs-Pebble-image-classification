@@ -183,7 +183,7 @@ The repository includes screenshots extracted from the executed notebook so that
 
 ### Confusion matrix
 
-![image alt]([assets/confusion_matrix.png](https://github.com/ashraf021/Shell-vs-Pebble-image-classification/blob/3bb41916aa501c223883d466d5fef1790c568806/confusion_matrix.png))
+![image alt](https://github.com/ashraf021/Shell-vs-Pebble-image-classification/blob/3bb41916aa501c223883d466d5fef1790c568806/confusion_matrix.png)
 
 ### Sample predictions
 
