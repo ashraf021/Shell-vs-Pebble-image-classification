@@ -179,7 +179,7 @@ The repository includes screenshots extracted from the executed notebook so that
 
 ### Training and validation accuracy
 
-![Training and validation accuracy](assets/training_accuracy_curve.png)
+![image alt](https://github.com/ashraf021/Shell-vs-Pebble-image-classification/blob/a07ab5be57071fe76e57c767ffc6062ef79eac4c/training_accuracy_curve.png)
 
 ### Confusion matrix
 
