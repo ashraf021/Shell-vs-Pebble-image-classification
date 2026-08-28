@@ -4,7 +4,7 @@ A binary image-classification project that identifies whether an input image con
 
 > **Notebook:** `shell-vs-pebble-image-classification-using-cnn.ipynb`
 
-Dataset: [/kaggle/input/datasets/vencerlanz09/shells-or-pebbles-an-image-classification-dataset](https://www.kaggle.com/datasets/vencerlanz09/shells-or-pebbles-an-image-classification-dataset)
+**Dataset:** [/kaggle/input/datasets/vencerlanz09/shells-or-pebbles-an-image-classification-dataset](https://www.kaggle.com/datasets/vencerlanz09/shells-or-pebbles-an-image-classification-dataset)
 
 ## 1. Project at a glance
 
