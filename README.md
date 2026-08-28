@@ -3,7 +3,8 @@
 A binary image-classification project that identifies whether an input image contains a **Pebble** or a **Shell**. The submitted notebook uses **TensorFlow/Keras** with **MobileNetV2 transfer learning**, followed by a small custom classification head.
 
 > **Notebook:** `shell-vs-pebble-image-classification-using-cnn.ipynb`
-> Dataset: /kaggle/input/datasets/vencerlanz09/shells-or-pebbles-an-image-classification-dataset
+
+Dataset: [/kaggle/input/datasets/vencerlanz09/shells-or-pebbles-an-image-classification-dataset](https://www.kaggle.com/datasets/vencerlanz09/shells-or-pebbles-an-image-classification-dataset)
 
 ## 1. Project at a glance
 
